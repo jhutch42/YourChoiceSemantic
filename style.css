@@ -18,6 +18,7 @@ h1 {
   font-size: 14px;
   letter-spacing: 4px;
   margin: 0 0 15px 0;
+  z-index: 100000;
 }
 
 .small-menu {
