@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2d380a6-8666-4967-8d43-39e60996dbce" name="Default Changelist" comment="" />
+    <list default="true" id="e2d380a6-8666-4967-8d43-39e60996dbce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,20 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="110" column="83" selection-start-line="110" selection-start-column="83" selection-end-line="110" selection-end-column="83" />
+            <state relative-caret-position="408">
+              <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="97" column="20" selection-start-line="97" selection-start-column="20" selection-end-line="97" selection-end-column="20" />
+            <state relative-caret-position="391">
+              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -36,12 +42,15 @@
       <replace />
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/slider.js" />
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
   </component>
@@ -51,19 +60,31 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-15" />
+    <option name="y" value="425" />
     <option name="width" value="3865" />
-    <option name="height" value="2075" />
+    <option name="height" value="1650" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="YourChoiceSemantic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YourChoiceSemantic" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -101,12 +122,12 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="1546" height="830" extended-state="0" />
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.24950364" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.24900925" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -126,7 +147,7 @@
     <layout-to-restore>
       <window_info id="Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.24950364" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.24900925" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -148,9 +169,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/slider.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/slider.js" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/rdfa.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -158,17 +177,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="97" column="20" selection-start-line="97" selection-start-column="20" selection-end-line="97" selection-end-column="20" />
+        <state relative-caret-position="408">
+          <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="110" column="83" selection-start-line="110" selection-start-column="83" selection-end-line="110" selection-end-column="83" />
+        <state relative-caret-position="391">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
         </state>
       </provider>
     </entry>
