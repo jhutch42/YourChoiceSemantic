@@ -1,0 +1,99 @@
+body {
+  font-family: 'CourierPrimeRegular';
+  line-height: 14px;
+  letter-spacing: 2px;
+}
+
+h1 {
+  font-family: 'Old Standard TT', serif;
+  letter-spacing: 4px;
+}
+.ui.borderless.compact.menu.navigation-bar {
+  font-family: 'Old Standard TT', serif;
+  height: 6vh;
+  box-shadow: none;
+  border:none;
+  background-color:white;
+  padding: 22px 0 22px 0;
+  font-size: 14px;
+  letter-spacing: 4px;
+  margin: 0 0 15px 0;
+}
+
+.gray {
+  color: #47494c;
+}
+
+.brown {
+  color: #8b431f;
+}
+
+
+.ui.borderless.compact.menu.navigation-bar>item {
+  font-weight:bold;
+}
+a:hover {
+  color: #8b431f;
+}
+
+.bold {
+  font-weight:bold;
+}
+
+.top-margin {
+  top: 30px;
+}
+
+.top-margin-large {
+  top: 200px;
+}
+
+.top-margin-medium {
+  top: 120px;
+}
+
+.grid {
+  position:relative;
+}
+
+.special-link {
+  font-size: 14px;
+  letter-spacing:6.1px;
+  font-family: "arial";
+  color: black;
+  font-weight: bold;
+}
+.special-link:hover {
+  color: #8b431f;
+}
+
+.special-link-bottom {
+  color: black;
+}
+.special-link-bottom:hover {
+  color: #8b431f;
+}
+
+.ui.fluid.container.foot > img {
+  z-index: -1;
+}
+
+.top-level {
+  z-index: 1000;
+}
+
+.dashed-bottom-border {
+  border-bottom: 1px dashed black;
+}
+
+.dashed-border {
+  border: 1px dashed black;
+}
+
+.absolute-positioned {
+  position: absolute;
+}
+
+.ui.fluid.image.footer {
+  position:absolute;
+}
